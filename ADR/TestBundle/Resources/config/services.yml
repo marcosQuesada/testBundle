@@ -1,0 +1,7 @@
+parameters:
+#    adr_test.example.class: ADR\TestBundle\Example
+
+services:
+#    adr_test.example:
+#        class: %adr_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+adr_test_homepage:
+    pattern:  /okis/{name}
+    defaults: { _controller: ADRTestBundle:Default:index }
